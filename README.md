@@ -1,0 +1,2 @@
+# components
+photos,videos,sounds
