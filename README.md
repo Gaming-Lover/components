@@ -1,2 +1,2 @@
 # components
-photos,videos,sounds
+photos,videos,sounds,animations
